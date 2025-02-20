@@ -3,5 +3,9 @@ public class test {
 
         System.out.println("this is a new project");
         System.out.println("this is a version 1");
+
+        System.out.println("hi man");
+
     }
 }
+// done with version 1
