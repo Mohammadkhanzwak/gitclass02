@@ -6,6 +6,9 @@ public class test {
 
         System.out.println("hi man");
 
+        System.out.println("i love playing code");
+        System.out.println("i am master of code");
+
     }
 }
 // done with version 1
